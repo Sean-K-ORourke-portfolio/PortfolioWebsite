@@ -7,6 +7,22 @@
   pointer-events: none;
 }
 
+.Profile-picture {
+  height: 70vmin;
+  position: relative;
+  top:-15vmin;
+  left:-5vmin;
+  pointer-events: none;
+}
+
+#profile-picture {
+  height: 40vmin;
+  width: 40vmin;
+  /*background-color: black;*/
+  overflow:hidden;
+  border-radius: 50%;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;

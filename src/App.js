@@ -5,13 +5,15 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={profileImage} className="App-logo" alt="myProfileImage" />
+      <div id="profile-picture">
+        <img src={profileImage} className="Profile-picture" alt="myProfileImage" />
+      </div>
         <p>
-          Welcome to my portfolio!
+          Welcome to Sean Kirby O'Rourke's portfolio!
         </p>
         <a
           className="App-link"
-          href="https://whatever-i-want-channel.itch.io"
+          href="https://seankirbyorourke.itch.io/"
           target="_blank"
           rel="noopener noreferrer"
         >
