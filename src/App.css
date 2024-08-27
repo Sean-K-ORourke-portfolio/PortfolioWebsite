@@ -47,6 +47,10 @@
   color: white;
 }
 
+.SimcoachLogo {
+  width: 70vmin;
+}
+
 .Simcoach-Games-projs {
   background-color: var(--simcoachLightGray);
   color: var(--simcoachBlack);

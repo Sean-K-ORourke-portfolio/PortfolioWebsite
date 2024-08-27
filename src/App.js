@@ -37,7 +37,7 @@ function App() {
           my github
         </a>
       </header>
-      <img src={simLogo}></img>
+      <img className = "SimcoachLogo" src={simLogo}></img>
       <div className="Simcoach-Games-projs">
         <p>
         <span class="SimprojectName">First Stop</span> - Pilot project into educating neurodivergent/ASD individuals in collaboration with Step One for consultation with ASD specialization therapists. Educational game teaching autistic individuals how to utilize public transportation. One of two artists in charge of art for the game, I primarily headed character design, splash art, and UI/UX. Officially released on App Store and Google Play.
