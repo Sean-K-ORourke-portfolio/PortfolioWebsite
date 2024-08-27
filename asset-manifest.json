@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/PortfolioWebsite/static/css/main.d01f9639.css",
-    "main.js": "/PortfolioWebsite/static/js/main.6bfce2bf.js",
+    "main.css": "/PortfolioWebsite/static/css/main.555546dd.css",
+    "main.js": "/PortfolioWebsite/static/js/main.b31ef1eb.js",
     "static/js/453.c184b351.chunk.js": "/PortfolioWebsite/static/js/453.c184b351.chunk.js",
-    "static/media/portfolioImage.png": "/PortfolioWebsite/static/media/portfolioImage.9e57d175416ee9fc582d.png",
+    "static/media/SelfImage-Smaller.png": "/PortfolioWebsite/static/media/SelfImage-Smaller.64299dcfa5b9f2ac7c68.png",
     "static/media/simcoachlogo.png": "/PortfolioWebsite/static/media/simcoachlogo.c2123572c049206f9e54.png",
     "index.html": "/PortfolioWebsite/index.html",
-    "main.d01f9639.css.map": "/PortfolioWebsite/static/css/main.d01f9639.css.map",
-    "main.6bfce2bf.js.map": "/PortfolioWebsite/static/js/main.6bfce2bf.js.map",
+    "main.555546dd.css.map": "/PortfolioWebsite/static/css/main.555546dd.css.map",
+    "main.b31ef1eb.js.map": "/PortfolioWebsite/static/js/main.b31ef1eb.js.map",
     "453.c184b351.chunk.js.map": "/PortfolioWebsite/static/js/453.c184b351.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d01f9639.css",
-    "static/js/main.6bfce2bf.js"
+    "static/css/main.555546dd.css",
+    "static/js/main.b31ef1eb.js"
   ]
 }
