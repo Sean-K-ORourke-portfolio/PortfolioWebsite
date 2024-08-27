@@ -3,10 +3,15 @@
   --simcoachBlack: #231f20;
   --simcoachGray: #77787c;
   --simcoachLightGray: #b1b3b9;
+  --acaLightBlue: #0487d8;
+  --acaBlack: #f0f4f7;
+  --acaGold: #f8cc3b;
+  background-color: darkslategray;
 }
 
 .App {
   text-align: center;
+  
 }
 
 .App-logo {
@@ -47,8 +52,8 @@
   color: white;
 }
 
-.SimcoachLogo {
-  width: 70vmin;
+.Logo {
+  height: 25vmin;
 }
 
 .Simcoach-Games-projs {
@@ -56,8 +61,18 @@
   color: var(--simcoachBlack);
 }
 
-.SimprojectName {
+.SimprojName {
   color: var(--simcoachOrange);
+  font-weight: bold;
+}
+
+.Academic-projs {
+  background-color: var(--acaLightBlue);
+  color: var(--acaBlack);
+}
+
+.AcaprojName {
+  color: var(--acaGold);
   font-weight: bold;
 }
 
