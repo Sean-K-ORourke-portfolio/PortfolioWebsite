@@ -15,9 +15,9 @@
 }
 
 .Profile-picture {
-  height: 70vmin;
+  height: 40vmin;
   position: relative;
-  top:-15vmin;
+  /* top:-35vmin; */
   left:-5vmin;
   pointer-events: none;
 }

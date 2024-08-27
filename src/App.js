@@ -1,4 +1,4 @@
-import profileImage from './portfolioImage.png';
+import profileImage from './SelfImage-Smaller.png';
 import simLogo from './simcoachlogo.png';
 import './App.css';
 
