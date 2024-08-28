@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "//PortfolioWebsite/static/css/main.48b341b1.css",
-    "main.js": "//PortfolioWebsite/static/js/main.da7bdc47.js",
-    "static/js/453.c184b351.chunk.js": "//PortfolioWebsite/static/js/453.c184b351.chunk.js",
-    "static/media/SelfImage-Smaller.png": "//PortfolioWebsite/static/media/SelfImage-Smaller.64299dcfa5b9f2ac7c68.png",
-    "static/media/simcoachlogo.png": "//PortfolioWebsite/static/media/simcoachlogo.8d220b62a7be37501a45.png",
-    "static/media/UPittLogo.png": "//PortfolioWebsite/static/media/UPittLogo.9bad34e0198a22325806.png",
-    "index.html": "//PortfolioWebsite/index.html",
-    "main.48b341b1.css.map": "//PortfolioWebsite/static/css/main.48b341b1.css.map",
-    "main.da7bdc47.js.map": "//PortfolioWebsite/static/js/main.da7bdc47.js.map",
-    "453.c184b351.chunk.js.map": "//PortfolioWebsite/static/js/453.c184b351.chunk.js.map"
+    "main.css": "/static/css/main.48b341b1.css",
+    "main.js": "/static/js/main.9b674794.js",
+    "static/js/453.c184b351.chunk.js": "/static/js/453.c184b351.chunk.js",
+    "static/media/SelfImage-Smaller.png": "/static/media/SelfImage-Smaller.64299dcfa5b9f2ac7c68.png",
+    "static/media/simcoachlogo.png": "/static/media/simcoachlogo.8d220b62a7be37501a45.png",
+    "static/media/UPittLogo.png": "/static/media/UPittLogo.9bad34e0198a22325806.png",
+    "index.html": "/index.html",
+    "main.48b341b1.css.map": "/static/css/main.48b341b1.css.map",
+    "main.9b674794.js.map": "/static/js/main.9b674794.js.map",
+    "453.c184b351.chunk.js.map": "/static/js/453.c184b351.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.48b341b1.css",
-    "static/js/main.da7bdc47.js"
+    "static/js/main.9b674794.js"
   ]
 }
